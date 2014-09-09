@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "ECMAScript 6 and the Awesomeness of the Harmony Standard",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "calebrosario",
+    "githubRepository": "reveal-es6-talk"
+  }
+}

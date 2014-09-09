@@ -1,0 +1,3 @@
+##  Symbols
+
+This is a new Markdown slide

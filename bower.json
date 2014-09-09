@@ -1,0 +1,7 @@
+{
+  "name": "ecmascript-6-and-the-awesomeness-of-the-harmony-standard",
+  "version": "0.0.1",
+  "dependencies": {
+    "reveal.js": "~2.6.1"
+  }
+}
